@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../Binaries/libcommon_utilities.a  CMakeFiles/common_utilities.dir/os_utilities.cpp.o CMakeFiles/common_utilities.dir/stdafx.cpp.o
+/usr/bin/ranlib ../../../Binaries/libcommon_utilities.a

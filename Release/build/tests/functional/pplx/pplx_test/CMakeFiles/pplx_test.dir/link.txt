@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../../Binaries/libpplx_test.a  CMakeFiles/pplx_test.dir/pplx_op_test.cpp.o CMakeFiles/pplx_test.dir/pplx_task_options.cpp.o CMakeFiles/pplx_test.dir/pplxtask_tests.cpp.o CMakeFiles/pplx_test.dir/stdafx.cpp.o
+/usr/bin/ranlib ../../../../Binaries/libpplx_test.a

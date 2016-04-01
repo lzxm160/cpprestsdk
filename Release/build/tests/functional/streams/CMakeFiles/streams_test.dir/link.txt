@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../Binaries/libstreams_test.a  CMakeFiles/streams_test.dir/fstreambuf_tests.cpp.o CMakeFiles/streams_test.dir/istream_tests.cpp.o CMakeFiles/streams_test.dir/memstream_tests.cpp.o CMakeFiles/streams_test.dir/ostream_tests.cpp.o CMakeFiles/streams_test.dir/stdstream_tests.cpp.o CMakeFiles/streams_test.dir/fuzz_tests.cpp.o
+/usr/bin/ranlib ../../../Binaries/libstreams_test.a

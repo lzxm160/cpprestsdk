@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../Binaries/liburi_test.a  CMakeFiles/uri_test.dir/accessor_tests.cpp.o CMakeFiles/uri_test.dir/combining_tests.cpp.o CMakeFiles/uri_test.dir/constructor_tests.cpp.o CMakeFiles/uri_test.dir/conversions_tests.cpp.o CMakeFiles/uri_test.dir/diagnostic_tests.cpp.o CMakeFiles/uri_test.dir/encoding_tests.cpp.o CMakeFiles/uri_test.dir/operator_tests.cpp.o CMakeFiles/uri_test.dir/splitting_tests.cpp.o CMakeFiles/uri_test.dir/uri_builder_tests.cpp.o
+/usr/bin/ranlib ../../../Binaries/liburi_test.a

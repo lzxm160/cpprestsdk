@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../../Binaries/libwebsockettest_utilities.a  CMakeFiles/websockettest_utilities.dir/test_websocket_server.cpp.o
+/usr/bin/ranlib ../../../../Binaries/libwebsockettest_utilities.a

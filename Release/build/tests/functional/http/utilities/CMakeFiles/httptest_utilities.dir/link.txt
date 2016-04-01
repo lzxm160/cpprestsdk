@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../../Binaries/libhttptest_utilities.a  CMakeFiles/httptest_utilities.dir/http_asserts.cpp.o CMakeFiles/httptest_utilities.dir/test_http_client.cpp.o CMakeFiles/httptest_utilities.dir/test_http_server.cpp.o CMakeFiles/httptest_utilities.dir/test_server_utilities.cpp.o
+/usr/bin/ranlib ../../../../Binaries/libhttptest_utilities.a
